@@ -1,10 +1,10 @@
 .flora * { color: inherit }
 ::selection { background: salmon; color: indigo }
-[class].sol { background: black; color: deeppink }
-[class].hot { background: hotpink; color: black }
-[class].luna { background: mediumvioletred; color: black }
+[class].sol { background: purple; color: burlywood }
+[class].hot { background: hotpink; color: indigo }
+[class].luna { background: violet; color: maroon }
 [class].jugo { background: darkviolet; color: peachpuff }
-[class].metal { background: blueviolet; color: black }
+[class].metal { background: blueviolet; color: papayawhip }
 
 .mundo {
   font-family: sans-serif;
